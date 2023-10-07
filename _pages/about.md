@@ -23,7 +23,7 @@ The purpose of this community is to make and share maps in Minecraft.</p>
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a href="https://craftmaptr.github.io/CrafTea/">CrafTea</a>.</p>
+<p>Thank you for your support! Your donation helps me to maintain and improve <a href="https://craftmaptr.github.io/CrafTea/">CrafTea <i class="fa-solid fa-link"></i></a>.</p>
 
 <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
